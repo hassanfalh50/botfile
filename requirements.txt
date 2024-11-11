@@ -1,3 +1,7 @@
-python-telegram-bot==13.7
-requests==2.26.0
-googledrivedownloader==0.4
+telebot
+datetime
+threading
+time
+traceback
+logging
+requests
