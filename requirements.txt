@@ -1,7 +1,7 @@
-pip install telebot
-pip install datetime
-pip install threading
-pip install time
-pip install traceback
-pip install logging
-pip install requests
+telebot
+datetime
+threading
+time
+traceback
+logging
+requests
